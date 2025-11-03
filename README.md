@@ -14,4 +14,4 @@ Team member : Jancy Rani S
 
 Team member : Rajapiratti S
 
-Demo Video Link : [link:](https://drive.google.com/file/d/1CVBovbbMjtB19rAro2ilRY7yA93iibyX/view?usp=sharing)# Education-Organization
+Demo Video Link : [link:]([demo link](https://drive.google.com/file/d/1CVBovbbMjtB19rAro2ilRY7yA93iibyX/view?usp=drive_link))# Education-Organization
